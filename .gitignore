@@ -1,0 +1,4 @@
+.tags
+__pycache__
+youtool/playlists/*.json
+spotiply/playlists/*.json
